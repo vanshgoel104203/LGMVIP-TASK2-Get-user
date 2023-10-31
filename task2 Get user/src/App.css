@@ -1,0 +1,62 @@
+.App {
+  
+  text-align: center;
+  background-color: black;
+  min-height: 100vh;
+
+}
+
+h1{
+  
+  margin:0px;
+  color: white;
+}
+ .header{
+
+  background-color: rgb(13, 6, 111);
+  padding: 8px;
+ }
+.main{
+  margin-left:16%;
+  display: flex;
+  justify-content:space-between;
+flex-wrap: wrap;
+padding: 10px;
+}
+.getuser{
+
+border-radius:20px;
+background-color: grey;
+color: rgb(3, 3, 92);
+font-weight: bold;
+border: 1px solid white;
+text-align: start;
+width:80%;
+margin-top: 10px ;
+font-size: 14px;
+}
+
+.getuser img{
+margin-top:10px;
+  margin-left:40%;
+  height: 300px;
+  width: 300px;
+border-radius: 300px;
+}
+p{
+margin:10px;
+  text-align: justify;
+}
+button{
+margin:30px 45%;
+align-items: center;
+  height:80px;
+  width:150px;
+  background-color: orange;
+  border: none;
+  outline: none;
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  color:black;
+}
